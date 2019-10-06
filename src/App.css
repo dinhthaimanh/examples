@@ -20,3 +20,22 @@
 .App-link {
   color: #09d3ac;
 }
+
+.content{
+  margin-top: 15px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.life-cycle {
+  background-color: white;
+  width: 150px;
+  border-radius: 13px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.life-cycle button{
+  border-radius: 13px;
+}
